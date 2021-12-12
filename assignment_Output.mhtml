@@ -1,0 +1,80 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://127.0.0.1:5500/neha/index.html
+Subject: assignment
+Date: Sun, 12 Dec 2021 16:44:47 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YbGl6RLiwry36MupQAden8Vq7ni4l8t6Rez0GUhjhP----"
+
+
+------MultipartBoundary--YbGl6RLiwry36MupQAden8Vq7ni4l8t6Rez0GUhjhP----
+Content-Type: text/html
+Content-ID: <frame-BDFB9AB5736142756298E2B894807ADC@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/neha/index.html
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>assignment</title>
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://127.0.0.1:550=
+0/neha/style.css">
+</head>
+<body>
+    <div class=3D"box-1"></div>
+    <div class=3D"box-2"></div>
+    <br>
+    <div class=3D"box-3"></div>
+    <div class=3D"box-4"></div>
+
+    <br>
+    <br>
+    <div class=3D"box-5">
+        <div class=3D"box-6">
+            <div class=3D"box-7">
+                <div class=3D"box-8">
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- Code injected by live-server -->
+
+</body></html>
+------MultipartBoundary--YbGl6RLiwry36MupQAden8Vq7ni4l8t6Rez0GUhjhP----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://127.0.0.1:5500/neha/style.css
+
+@charset "utf-8";
+
+div { width: 200px; height: 200px; background: darkgreen; display: inline-b=
+lock; margin: 0px; line-height: 50px; }
+
+.box-1 { border-radius: 0px 100px 200px; position: relative; }
+
+.box-2 { border-radius: 100px 0px 100px 200px; position: absolute; }
+
+.box-3 { border-radius: 100px 200px 100px 0px; position: relative; }
+
+.box-4 { border-radius: 200px 100px 0px; position: absolute; }
+
+.box-5 { width: 400px; height: 400px; border-radius: 400px; background-colo=
+r: rgb(7, 54, 194); display: inline-block; margin: 30px 50px; line-height: =
+250px; border: 3px solid rgb(199, 33, 33); }
+
+.box-6 { width: 300px; height: 300px; border-radius: 300px; background: whi=
+te; display: inline-block; margin: 12%; line-height: 250px; border: 3px sol=
+id rgb(199, 33, 33); }
+
+.box-7 { width: 200px; height: 200px; border-radius: 200px; background: rgb=
+(7, 54, 194); display: inline-block; margin: 15%; line-height: 250px; borde=
+r: 3px solid rgb(199, 33, 33); }
+
+.box-8 { width: 100px; height: 100px; border-radius: 100px; background: whi=
+te; display: inline-block; margin: 22%; line-height: 250px; border: rgb(199=
+, 33, 33); }
+------MultipartBoundary--YbGl6RLiwry36MupQAden8Vq7ni4l8t6Rez0GUhjhP------
